@@ -5,19 +5,19 @@
 @tailwind utilities;
 
 body{
-  background-color: #20242d;
+  background-color: #02010cfa;
   font-family: 'poppins',sans-serif;
   font-weight: 800;
-}
+} 
 
 span,
 .primary-color{
-  background-image: linear-gradient(to right,#3a3760,#1f509a);
+  background-image: linear-gradient(to right,#f3f3f3ea,#162438);
   -webkit-background-clip: text;
   color: transparent;
 }
 
 .bg-primary-color{
-  background-image: linear-gradient(to right,#49394a, #2a2626);
+  background-image: linear-gradient(to right,#1f103a, #1e0e5a);
   
 }
